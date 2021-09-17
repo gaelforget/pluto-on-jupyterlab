@@ -84,3 +84,4 @@ As it happens with Docker Containers, it makes no sense to update Pluto within a
 (please rebuilt the image instead).
 
 For more information on this, read the docks of [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
+
